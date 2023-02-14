@@ -1,0 +1,5 @@
+Name         = Thief Items into Bag
+Version      = 1.0.0
+Credits      = Heart Shots
+Essentials   = 20.1
+Link         = https://www.reliccastle.com/resources/1037/

@@ -1,0 +1,3585 @@
+#-------------------------------
+[BULBASAUR]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[IVYSAUR]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[VENUSAUR]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[CHARMANDER]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[CHARMELEON]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[CHARIZARD]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[SQUIRTLE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[WARTORTLE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[BLASTOISE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[BUTTERFREE]
+Skills = FLASH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BEEDRILL]
+Skills = CUT,FLASH,ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[PIDGEY]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PIDGEOTTO]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PIDGEOT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[RATTATA]
+Skills = CUT,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[RATICATE]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SPEAROW]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FEAROW]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[EKANS]
+Skills = STRENGTH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ARBOK]
+Skills = STRENGTH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PIKACHU]
+Skills = SURF,STRENGTH,FLASH,ROCKSMASH,DIG,RAINDANCE
+#-------------------------------
+[RAICHU]
+Skills = SURF,STRENGTH,FLASH,ROCKSMASH,DIG,RAINDANCE
+#-------------------------------
+[SANDSHREW]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SANDSLASH]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[NIDORANfE]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[NIDORINA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[NIDOQUEEN]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[NIDORANmA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[NIDORINO]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[NIDOKING]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[CLEFAIRY]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE,HEALPULSE,LIFEDEW,AROMATHERAPY
+#-------------------------------
+[CLEFABLE]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE,HEALPULSE,LIFEDEW,AROMATHERAPY
+#-------------------------------
+[VULPIX]
+Skills = DIG,SUNNYDAY
+#-------------------------------
+[NINETALES]
+Skills = DIG,SUNNYDAY
+#-------------------------------
+[JIGGLYPUFF]
+Skills = STRENGTH,FLASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE,HEALPULSE
+#-------------------------------
+[WIGGLYTUFF]
+Skills = STRENGTH,FLASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE,HEALPULSE
+#-------------------------------
+[ZUBAT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GOLBAT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ODDISH]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[GLOOM]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[VILEPLUME]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[PARAS]
+Skills = CUT,FLASH,ROCKSMASH,DIG,SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[PARASECT]
+Skills = CUT,FLASH,ROCKSMASH,DIG,SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[VENONAT]
+Skills = FLASH,SUNNYDAY
+#-------------------------------
+[VENOMOTH]
+Skills = FLASH,DEFOG,SUNNYDAY
+#-------------------------------
+[DIGLETT]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DUGTRIO]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[MEOWTH]
+Skills = CUT,FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PERSIAN]
+Skills = CUT,FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PSYDUCK]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL,FUTURESIGHT
+#-------------------------------
+[GOLDUCK]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,HAIL,FUTURESIGHT
+#-------------------------------
+[MANKEY]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PRIMEAPE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GROWLITHE]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[ARCANINE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,EXTREMESPEED
+#-------------------------------
+[POLIWAG]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[POLIWHIRL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[POLIWRATH]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,HAIL
+#-------------------------------
+[ABRA]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[KADABRA]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[ALAKAZAM]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[MACHOP]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MACHOKE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MACHAMP]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BELLSPROUT]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[WEEPINBELL]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[VICTREEBEL]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[TENTACOOL]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[TENTACRUEL]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[GEODUDE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[GRAVELER]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[GOLEM]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[PONYTA]
+Skills = STRENGTH,SUNNYDAY,BOUNCE
+#-------------------------------
+[RAPIDASH]
+Skills = STRENGTH,SUNNYDAY,BOUNCE
+#-------------------------------
+[SLOWPOKE]
+Skills = SURF,STRENGTH,DIVE,FLASH,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[SLOWBRO]
+Skills = SURF,STRENGTH,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[MAGNEMITE]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MAGNETON]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FARFETCHD]
+Skills = CUT,FLY,DEFOG,SUNNYDAY
+#-------------------------------
+[DODUO]
+Skills = FLY,SUNNYDAY
+#-------------------------------
+[DODRIO]
+Skills = FLY,SUNNYDAY
+#-------------------------------
+[SEEL]
+Skills = SURF,WATERFALL,DIVE,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[DEWGONG]
+Skills = SURF,WATERFALL,DIVE,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[GRIMER]
+Skills = STRENGTH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MUK]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SHELLDER]
+Skills = SURF,DIVE,WHIRLPOOL,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[CLOYSTER]
+Skills = SURF,DIVE,WHIRLPOOL,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[GASTLY]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[HAUNTER]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[GENGAR]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ONIX]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DROWZEE]
+Skills = FLASH,HEADBUTT,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[HYPNO]
+Skills = FLASH,HEADBUTT,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[KRABBY]
+Skills = CUT,SURF,STRENGTH,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[KINGLER]
+Skills = CUT,SURF,STRENGTH,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[VOLTORB]
+Skills = FLASH,RAINDANCE
+#-------------------------------
+[ELECTRODE]
+Skills = FLASH,RAINDANCE
+#-------------------------------
+[EXEGGCUTE]
+Skills = STRENGTH,FLASH,SUNNYDAY
+#-------------------------------
+[EXEGGUTOR]
+Skills = STRENGTH,FLASH,SUNNYDAY,FUTURESIGHT
+#-------------------------------
+[CUBONE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[MAROWAK]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[HITMONLEE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[HITMONCHAN]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LICKITUNG]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[KOFFING]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[WEEZING]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[RHYHORN]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[RHYDON]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[CHANSEY]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,SOFTBOILED,HEALPULSE,LIFEDEW,HEALBELL,AROMATHERAPY
+#-------------------------------
+[TANGELA]
+Skills = CUT,FLASH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[KANGASKHAN]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[HORSEA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SEADRA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[GOLDEEN]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SEAKING]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[STARYU]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[STARMIE]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[MRMIME]
+Skills = FLASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[SCYTHER]
+Skills = CUT,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[JYNX]
+Skills = FLASH,RAINDANCE,HAIL,FUTURESIGHT
+#-------------------------------
+[ELECTABUZZ]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,RAINDANCE
+#-------------------------------
+[MAGMAR]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,SUNNYDAY
+#-------------------------------
+[PINSIR]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[TAUROS]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[MAGIKARP]
+Skills = BOUNCE
+#-------------------------------
+[GYARADOS]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,SANDSTORM,HAIL,BOUNCE
+#-------------------------------
+[LAPRAS]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[EEVEE]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[VAPOREON]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[JOLTEON]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FLAREON]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PORYGON]
+Skills = FLASH,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[OMANYTE]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[OMASTAR]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[KABUTO]
+Skills = SURF,WATERFALL,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[KABUTOPS]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[AERODACTYL]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[SNORLAX]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[ARTICUNO]
+Skills = FLY,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[ZAPDOS]
+Skills = FLY,FLASH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[MOLTRES]
+Skills = FLY,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[DRATINI]
+Skills = SURF,WATERFALL,WHIRLPOOL,SUNNYDAY,RAINDANCE,HAIL,EXTREMESPEED
+#-------------------------------
+[DRAGONAIR]
+Skills = SURF,WATERFALL,WHIRLPOOL,SUNNYDAY,RAINDANCE,HAIL,EXTREMESPEED
+#-------------------------------
+[DRAGONITE]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED
+#-------------------------------
+[MEWTWO]
+Skills = STRENGTH,DIVE,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,RECOVER,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[MEW]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DEFOG,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,BOUNCE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[CHIKORITA]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[BAYLEEF]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SWEETSCENT,SUNNYDAY,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[MEGANIUM]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SWEETSCENT,SUNNYDAY,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[CYNDAQUIL]
+Skills = CUT,DIG,SUNNYDAY
+#-------------------------------
+[QUILAVA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[TYPHLOSION]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[TOTODILE]
+Skills = CUT,SURF,WATERFALL,DIVE,DIG,RAINDANCE,HAIL
+#-------------------------------
+[CROCONAW]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,DIG,RAINDANCE,HAIL
+#-------------------------------
+[FERALIGATR]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,ROCKCLIMB,DIG,RAINDANCE,HAIL
+#-------------------------------
+[SENTRET]
+Skills = CUT,SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURRET]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HOOTHOOT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[NOCTOWL]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[LEDYBA]
+Skills = FLASH,DIG,SUNNYDAY
+#-------------------------------
+[LEDIAN]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[SPINARAK]
+Skills = FLASH,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[ARIADOS]
+Skills = FLASH,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[CROBAT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CHINCHOU]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[LANTURN]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[PICHU]
+Skills = SURF,FLASH,RAINDANCE
+#-------------------------------
+[CLEFFA]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[IGGLYBUFF]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE,HEALPULSE
+#-------------------------------
+[TOGEPI]
+Skills = FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[TOGETIC]
+Skills = FLY,FLASH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[NATU]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[XATU]
+Skills = FLY,FLASH,DEFOG,TELEPORT,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[MAREEP]
+Skills = FLASH,RAINDANCE,HEALBELL
+#-------------------------------
+[FLAAFFY]
+Skills = STRENGTH,FLASH,ROCKSMASH,RAINDANCE,HEALBELL
+#-------------------------------
+[AMPHAROS]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,RAINDANCE,HEALBELL
+#-------------------------------
+[BELLOSSOM]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[MARILL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[AZUMARILL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[SUDOWOODO]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[POLITOED]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[HOPPIP]
+Skills = FLASH,SUNNYDAY,BOUNCE,AROMATHERAPY
+#-------------------------------
+[SKIPLOOM]
+Skills = FLASH,SUNNYDAY,BOUNCE,AROMATHERAPY
+#-------------------------------
+[JUMPLUFF]
+Skills = FLASH,SUNNYDAY,BOUNCE,AROMATHERAPY
+#-------------------------------
+[AIPOM]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[SUNKERN]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[SUNFLORA]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[YANMA]
+Skills = FLASH,DEFOG,SUNNYDAY
+#-------------------------------
+[WOOPER]
+Skills = SURF,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM,HAIL,RECOVER
+#-------------------------------
+[QUAGSIRE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM,HAIL,RECOVER
+#-------------------------------
+[ESPEON]
+Skills = CUT,FLASH,DIG,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[UMBREON]
+Skills = CUT,FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MURKROW]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SLOWKING]
+Skills = SURF,STRENGTH,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[MISDREAVUS]
+Skills = FLASH,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[GIRAFARIG]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[PINECO]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[FORRETRESS]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DUNSPARCE]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GLIGAR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[STEELIX]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SNUBBULL]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[GRANBULL]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[QWILFISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SCIZOR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[SHUCKLE]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SWEETSCENT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[HERACROSS]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SNEASEL]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[TEDDIURSA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[URSARING]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SLUGMA]
+Skills = ROCKSMASH,SUNNYDAY,SANDSTORM,RECOVER
+#-------------------------------
+[MAGCARGO]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,SANDSTORM,RECOVER
+#-------------------------------
+[SWINUB]
+Skills = STRENGTH,ROCKSMASH,DIG,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[PILOSWINE]
+Skills = STRENGTH,ROCKSMASH,DIG,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[CORSOLA]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,RECOVER,LIFEDEW
+#-------------------------------
+[REMORAID]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[OCTILLERY]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[DELIBIRD]
+Skills = FLY,DEFOG,RAINDANCE,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[MANTINE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DEFOG,HEADBUTT,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SKARMORY]
+Skills = CUT,FLY,FLASH,ROCKSMASH,DEFOG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[HOUNDOUR]
+Skills = ROCKSMASH,SUNNYDAY
+#-------------------------------
+[HOUNDOOM]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[KINGDRA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[PHANPY]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DONPHAN]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,SANDSTORM,BOUNCE
+#-------------------------------
+[PORYGON2]
+Skills = FLASH,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[STANTLER]
+Skills = FLASH,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[SMEARGLE]
+Skills = SKETCH
+#-------------------------------
+[TYROGUE]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HITMONTOP]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[SMOOCHUM]
+Skills = FLASH,RAINDANCE,HAIL
+#-------------------------------
+[ELEKID]
+Skills = FLASH,ROCKSMASH,RAINDANCE
+#-------------------------------
+[MAGBY]
+Skills = ROCKSMASH,SUNNYDAY
+#-------------------------------
+[MILTANK]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,MILKDRINK,HEALBELL
+#-------------------------------
+[BLISSEY]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,SOFTBOILED,HEALPULSE,LIFEDEW,HEALBELL,AROMATHERAPY
+#-------------------------------
+[RAIKOU]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,EXTREMESPEED
+#-------------------------------
+[ENTEI]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,EXTREMESPEED
+#-------------------------------
+[SUICUNE]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED
+#-------------------------------
+[LARVITAR]
+Skills = ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[PUPITAR]
+Skills = ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[TYRANITAR]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[LUGIA]
+Skills = FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,RECOVER,FUTURESIGHT
+#-------------------------------
+[HOOH]
+Skills = FLY,STRENGTH,FLASH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,RECOVER,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[CELEBI]
+Skills = CUT,FLASH,SUNNYDAY,RAINDANCE,SANDSTORM,RECOVER,LIFEDEW,HEALBELL,FUTURESIGHT
+#-------------------------------
+[TREECKO]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[GROVYLE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[SCEPTILE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[TORCHIC]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[COMBUSKEN]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[BLAZIKEN]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[MUDKIP]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[MARSHTOMP]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[SWAMPERT]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,HAIL
+#-------------------------------
+[POOCHYENA]
+Skills = ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MIGHTYENA]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ZIGZAGOON]
+Skills = CUT,SURF,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,EXTREMESPEED
+#-------------------------------
+[LINOONE]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,EXTREMESPEED
+#-------------------------------
+[BEAUTIFLY]
+Skills = FLASH,DEFOG,SUNNYDAY
+#-------------------------------
+[DUSTOX]
+Skills = FLASH,DEFOG,SUNNYDAY
+#-------------------------------
+[LOTAD]
+Skills = SURF,FLASH,WHIRLPOOL,SWEETSCENT,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[LOMBRE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,SWEETSCENT,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[LUDICOLO]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,SWEETSCENT,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[SEEDOT]
+Skills = FLASH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[NUZLEAF]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[SHIFTRY]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DEFOG,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[TAILLOW]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SWELLOW]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[WINGULL]
+Skills = FLY,DEFOG,RAINDANCE,HAIL
+#-------------------------------
+[PELIPPER]
+Skills = FLY,SURF,WHIRLPOOL,DEFOG,RAINDANCE,HAIL
+#-------------------------------
+[RALTS]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[KIRLIA]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[GARDEVOIR]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[SURSKIT]
+Skills = FLASH,SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MASQUERAIN]
+Skills = FLASH,DEFOG,SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SHROOMISH]
+Skills = FLASH,HEADBUTT,SUNNYDAY
+#-------------------------------
+[BRELOOM]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,HEADBUTT,SUNNYDAY
+#-------------------------------
+[SLAKOTH]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[VIGOROTH]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SLAKING]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[NINCADA]
+Skills = CUT,FLASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[NINJASK]
+Skills = CUT,FLASH,DEFOG,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SHEDINJA]
+Skills = CUT,FLASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[WHISMUR]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[LOUDRED]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[EXPLOUD]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MAKUHITA]
+Skills = SURF,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HARIYAMA]
+Skills = SURF,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[AZURILL]
+Skills = SURF,WATERFALL,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[NOSEPASS]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SKITTY]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[DELCATTY]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[SABLEYE]
+Skills = CUT,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[MAWILE]
+Skills = STRENGTH,ROCKSMASH,SWEETSCENT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[ARON]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[LAIRON]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[AGGRON]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[MEDITITE]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[MEDICHAM]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[ELECTRIKE]
+Skills = STRENGTH,FLASH,HEADBUTT,RAINDANCE
+#-------------------------------
+[MANECTRIC]
+Skills = STRENGTH,FLASH,HEADBUTT,RAINDANCE
+#-------------------------------
+[PLUSLE]
+Skills = FLASH,RAINDANCE
+#-------------------------------
+[MINUN]
+Skills = FLASH,RAINDANCE
+#-------------------------------
+[VOLBEAT]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ILLUMISE]
+Skills = FLASH,SWEETSCENT,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[ROSELIA]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY,RAINDANCE,LIFEDEW,AROMATHERAPY
+#-------------------------------
+[GULPIN]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SWALOT]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CARVANHA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SHARPEDO]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[WAILMER]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[WAILORD]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[NUMEL]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[CAMERUPT]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[TORKOAL]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[SPOINK]
+Skills = FLASH,SUNNYDAY,RAINDANCE,BOUNCE,HEALBELL,FUTURESIGHT
+#-------------------------------
+[GRUMPIG]
+Skills = FLASH,SUNNYDAY,RAINDANCE,BOUNCE,HEALBELL,FUTURESIGHT
+#-------------------------------
+[SPINDA]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[TRAPINCH]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[VIBRAVA]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[FLYGON]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[CACNEA]
+Skills = CUT,FLASH,SUNNYDAY,SANDSTORM
+#-------------------------------
+[CACTURNE]
+Skills = CUT,STRENGTH,FLASH,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SWABLU]
+Skills = FLY,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ALTARIA]
+Skills = FLY,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ZANGOOSE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SEVIPER]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LUNATONE]
+Skills = FLASH,RAINDANCE,SANDSTORM,HAIL,FUTURESIGHT
+#-------------------------------
+[SOLROCK]
+Skills = FLASH,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[BARBOACH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,SANDSTORM,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[WHISCASH]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,SANDSTORM,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[CORPHISH]
+Skills = CUT,SURF,STRENGTH,WATERFALL,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[CRAWDAUNT]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,HAIL
+#-------------------------------
+[BALTOY]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[CLAYDOL]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,TELEPORT,SUNNYDAY,RAINDANCE,SANDSTORM,FUTURESIGHT
+#-------------------------------
+[LILEEP]
+Skills = FLASH,SUNNYDAY,SANDSTORM,RECOVER
+#-------------------------------
+[CRADILY]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM,RECOVER
+#-------------------------------
+[ANORITH]
+Skills = CUT,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[ARMALDO]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[FEEBAS]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[MILOTIC]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,RECOVER,LIFEDEW
+#-------------------------------
+[CASTFORM]
+Skills = FLASH,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,FUTURESIGHT
+#-------------------------------
+[KECLEON]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[SHUPPET]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BANETTE]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DUSKULL]
+Skills = FLASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[DUSCLOPS]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[TROPIUS]
+Skills = CUT,FLY,STRENGTH,FLASH,ROCKSMASH,DEFOG,SWEETSCENT,HEADBUTT,SUNNYDAY
+#-------------------------------
+[CHIMECHO]
+Skills = FLASH,SUNNYDAY,RAINDANCE,HEALPULSE,RECOVER,HEALBELL,FUTURESIGHT
+#-------------------------------
+[ABSOL]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[SNORUNT]
+Skills = FLASH,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[GLALIE]
+Skills = FLASH,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[SPHEAL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[SEALEO]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[WALREIN]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[CLAMPERL]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[HUNTAIL]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[GOREBYSS]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[RELICANTH]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,SANDSTORM,HAIL,BOUNCE
+#-------------------------------
+[LUVDISC]
+Skills = SURF,WATERFALL,DIVE,RAINDANCE,HAIL,BOUNCE,HEALPULSE
+#-------------------------------
+[BAGON]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SHELGON]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SALAMENCE]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[METANG]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[METAGROSS]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[REGIROCK]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[REGICE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,RAINDANCE,HAIL
+#-------------------------------
+[REGISTEEL]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[LATIAS]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HEALPULSE,RECOVER,FUTURESIGHT
+#-------------------------------
+[LATIOS]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HEALPULSE,RECOVER,FUTURESIGHT
+#-------------------------------
+[KYOGRE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[GROUDON]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[RAYQUAZA]
+Skills = FLY,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,SUNNYDAY,RAINDANCE,SANDSTORM,EXTREMESPEED
+#-------------------------------
+[JIRACHI]
+Skills = FLASH,SUNNYDAY,RAINDANCE,SANDSTORM,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[DEOXYS]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[TURTWIG]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY
+#-------------------------------
+[GROTLE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY
+#-------------------------------
+[TORTERRA]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,SANDSTORM
+#-------------------------------
+[CHIMCHAR]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[MONFERNO]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[INFERNAPE]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[PIPLUP]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL,DEFOG,DIG,RAINDANCE,HAIL
+#-------------------------------
+[PRINPLUP]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DEFOG,DIG,RAINDANCE,HAIL
+#-------------------------------
+[EMPOLEON]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DEFOG,ROCKCLIMB,DIG,RAINDANCE,HAIL
+#-------------------------------
+[STARLY]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[STARAVIA]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[STARAPTOR]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BIDOOF]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BIBAREL]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[KRICKETUNE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[SHINX]
+Skills = STRENGTH,FLASH,RAINDANCE
+#-------------------------------
+[LUXIO]
+Skills = STRENGTH,FLASH,RAINDANCE
+#-------------------------------
+[LUXRAY]
+Skills = STRENGTH,FLASH,RAINDANCE
+#-------------------------------
+[BUDEW]
+Skills = CUT,FLASH,SUNNYDAY,RAINDANCE,LIFEDEW
+#-------------------------------
+[ROSERADE]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY,RAINDANCE,LIFEDEW,AROMATHERAPY
+#-------------------------------
+[CRANIDOS]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[RAMPARDOS]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[SHIELDON]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[BASTIODON]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[WORMADAM]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MOTHIM]
+Skills = FLASH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[COMBEE]
+Skills = SWEETSCENT
+#-------------------------------
+[VESPIQUEN]
+Skills = CUT,FLASH,DEFOG,SWEETSCENT,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[PACHIRISU]
+Skills = CUT,FLASH,DIG,RAINDANCE
+#-------------------------------
+[BUIZEL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[FLOATZEL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[CHERUBI]
+Skills = FLASH,SWEETSCENT,SUNNYDAY,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[CHERRIM]
+Skills = FLASH,SWEETSCENT,SUNNYDAY,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[SHELLOS]
+Skills = SURF,DIVE,WHIRLPOOL,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[GASTRODON]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM,HAIL,RECOVER
+#-------------------------------
+[AMBIPOM]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[DRIFLOON]
+Skills = CUT,FLASH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DRIFBLIM]
+Skills = CUT,FLY,FLASH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BUNEARY]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[LOPUNNY]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[MISMAGIUS]
+Skills = FLASH,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[HONCHKROW]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GLAMEOW]
+Skills = CUT,FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PURUGLY]
+Skills = CUT,FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CHINGLING]
+Skills = FLASH,SUNNYDAY,RAINDANCE,RECOVER,HEALBELL,FUTURESIGHT
+#-------------------------------
+[STUNKY]
+Skills = CUT,ROCKSMASH,DEFOG,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SKUNTANK]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BRONZOR]
+Skills = FLASH,SUNNYDAY,RAINDANCE,SANDSTORM,FUTURESIGHT
+#-------------------------------
+[BRONZONG]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM,FUTURESIGHT
+#-------------------------------
+[BONSLY]
+Skills = DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[MIMEJR]
+Skills = FLASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[HAPPINY]
+Skills = FLASH,SUNNYDAY,RAINDANCE,HAIL,HEALBELL,AROMATHERAPY
+#-------------------------------
+[CHATOT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SPIRITOMB]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GIBLE]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[GABITE]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[GARCHOMP]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[MUNCHLAX]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[RIOLU]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LUCARIO]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,EXTREMESPEED,HEALPULSE,LIFEDEW
+#-------------------------------
+[HIPPOPOTAS]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[HIPPOWDON]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SKORUPI]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DRAPION]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CROAGUNK]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[TOXICROAK]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[CARNIVINE]
+Skills = CUT,FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[FINNEON]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[LUMINEON]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[MANTYKE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SNOVER]
+Skills = FLASH,RAINDANCE,HAIL
+#-------------------------------
+[ABOMASNOW]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,RAINDANCE,HAIL
+#-------------------------------
+[WEAVILE]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[MAGNEZONE]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LICKILICKY]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[RHYPERIOR]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[TANGROWTH]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[ELECTIVIRE]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG,RAINDANCE
+#-------------------------------
+[MAGMORTAR]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,SUNNYDAY
+#-------------------------------
+[TOGEKISS]
+Skills = FLY,FLASH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,EXTREMESPEED,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[YANMEGA]
+Skills = FLASH,DEFOG,SUNNYDAY
+#-------------------------------
+[LEAFEON]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GLACEON]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[GLISCOR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[MAMOSWINE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[PORYGONZ]
+Skills = FLASH,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[GALLADE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[PROBOPASS]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DUSKNOIR]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[FROSLASS]
+Skills = FLASH,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[ROTOM]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[UXIE]
+Skills = FLASH,SUNNYDAY,RAINDANCE,SANDSTORM,FUTURESIGHT
+#-------------------------------
+[MESPRIT]
+Skills = FLASH,SUNNYDAY,RAINDANCE,SANDSTORM,FUTURESIGHT
+#-------------------------------
+[AZELF]
+Skills = FLASH,SUNNYDAY,RAINDANCE,SANDSTORM,FUTURESIGHT
+#-------------------------------
+[DIALGA]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[PALKIA]
+Skills = CUT,SURF,STRENGTH,DIVE,ROCKSMASH,WHIRLPOOL,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[HEATRAN]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[REGIGIGAS]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GIRATINA]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CRESSELIA]
+Skills = FLASH,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[PHIONE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE,HEALBELL
+#-------------------------------
+[MANAPHY]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE,HEALBELL
+#-------------------------------
+[DARKRAI]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SHAYMIN]
+Skills = FLASH,SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[ARCEUS]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[VICTINI]
+Skills = HEADBUTT,SUNNYDAY,BOUNCE,FUTURESIGHT
+#-------------------------------
+[SNIVY]
+Skills = CUT,DEFOG,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[SERVINE]
+Skills = CUT,DEFOG,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[SERPERIOR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[TEPIG]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[PIGNITE]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[EMBOAR]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[OSHAWOTT]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,HAIL
+#-------------------------------
+[DEWOTT]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,HAIL
+#-------------------------------
+[SAMUROTT]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,HAIL
+#-------------------------------
+[PATRAT]
+Skills = CUT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[WATCHOG]
+Skills = CUT,STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LILLIPUP]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HERDIER]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[STOUTLAND]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PURRLOIN]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[LIEPARD]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[PANSAGE]
+Skills = CUT,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[SIMISAGE]
+Skills = CUT,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[PANSEAR]
+Skills = CUT,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[SIMISEAR]
+Skills = CUT,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[PANPOUR]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,HAIL
+#-------------------------------
+[SIMIPOUR]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,HAIL
+#-------------------------------
+[MUNNA]
+Skills = RAINDANCE,FUTURESIGHT
+#-------------------------------
+[MUSHARNA]
+Skills = RAINDANCE,FUTURESIGHT
+#-------------------------------
+[PIDOVE]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[TRANQUILL]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[UNFEZANT]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BLITZLE]
+Skills = RAINDANCE,BOUNCE
+#-------------------------------
+[ZEBSTRIKA]
+Skills = ROCKSMASH,RAINDANCE,BOUNCE
+#-------------------------------
+[ROGGENROLA]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[BOLDORE]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[GIGALITH]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[WOOBAT]
+Skills = FLY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[SWOOBAT]
+Skills = FLY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[DRILBUR]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[EXCADRILL]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[AUDINO]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW
+#-------------------------------
+[TIMBURR]
+Skills = DEFOG,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GURDURR]
+Skills = DEFOG,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CONKELDURR]
+Skills = DEFOG,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[TYMPOLE]
+Skills = SURF,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[PALPITOAD]
+Skills = SURF,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SEISMITOAD]
+Skills = SURF,DIVE,DIG,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[THROH]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SAWK]
+Skills = ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SEWADDLE]
+Skills = CUT,SUNNYDAY,CAMOUFLAGE
+#-------------------------------
+[SWADLOON]
+Skills = CUT,SUNNYDAY,CAMOUFLAGE
+#-------------------------------
+[LEAVANNY]
+Skills = CUT,SUNNYDAY,CAMOUFLAGE,HEALBELL
+#-------------------------------
+[VENIPEDE]
+Skills = SUNNYDAY
+#-------------------------------
+[WHIRLIPEDE]
+Skills = SUNNYDAY
+#-------------------------------
+[SCOLIPEDE]
+Skills = DIG,SUNNYDAY
+#-------------------------------
+[COTTONEE]
+Skills = SUNNYDAY
+#-------------------------------
+[WHIMSICOTT]
+Skills = SUNNYDAY
+#-------------------------------
+[PETILIL]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[LILLIGANT]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[BASCULIN]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[SANDILE]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[KROKOROK]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[KROOKODILE]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[DARUMAKA]
+Skills = DIG,HEADBUTT,SUNNYDAY
+#-------------------------------
+[DARMANITAN]
+Skills = DIG,HEADBUTT,SUNNYDAY,FUTURESIGHT
+#-------------------------------
+[MARACTUS]
+Skills = SWEETSCENT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[DWEBBLE]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[CRUSTLE]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[SCRAGGY]
+Skills = DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SCRAFTY]
+Skills = DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SIGILYPH]
+Skills = FLY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[YAMASK]
+Skills = RAINDANCE
+#-------------------------------
+[COFAGRIGUS]
+Skills = RAINDANCE
+#-------------------------------
+[TIRTOUGA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM
+#-------------------------------
+[CARRACOSTA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM
+#-------------------------------
+[ARCHEN]
+Skills = DEFOG,DIG,SANDSTORM,BOUNCE
+#-------------------------------
+[ARCHEOPS]
+Skills = FLY,DEFOG,DIG,SANDSTORM,BOUNCE
+#-------------------------------
+[TRUBBISH]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[GARBODOR]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[ZORUA]
+Skills = DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[ZOROARK]
+Skills = DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[MINCCINO]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CINCCINO]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GOTHITA]
+Skills = RAINDANCE,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[GOTHORITA]
+Skills = RAINDANCE,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[GOTHITELLE]
+Skills = RAINDANCE,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[SOLOSIS]
+Skills = RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[DUOSION]
+Skills = RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[REUNICLUS]
+Skills = RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[DUCKLETT]
+Skills = FLY,SURF,DIVE,DEFOG,RAINDANCE,HAIL
+#-------------------------------
+[SWANNA]
+Skills = FLY,SURF,DIVE,DEFOG,RAINDANCE,HAIL
+#-------------------------------
+[VANILLITE]
+Skills = RAINDANCE,HAIL
+#-------------------------------
+[VANILLISH]
+Skills = RAINDANCE,HAIL
+#-------------------------------
+[VANILLUXE]
+Skills = RAINDANCE,HAIL
+#-------------------------------
+[DEERLING]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[SAWSBUCK]
+Skills = CUT,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[EMOLGA]
+Skills = DEFOG,RAINDANCE
+#-------------------------------
+[KARRABLAST]
+Skills = HEADBUTT,RAINDANCE
+#-------------------------------
+[ESCAVALIER]
+Skills = HEADBUTT,RAINDANCE
+#-------------------------------
+[FOONGUS]
+Skills = SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[AMOONGUSS]
+Skills = SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FRILLISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[JELLICENT]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[ALOMOMOLA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE,HEALPULSE
+#-------------------------------
+[JOLTIK]
+Skills = RAINDANCE,BOUNCE
+#-------------------------------
+[GALVANTULA]
+Skills = RAINDANCE,BOUNCE
+#-------------------------------
+[FERROSEED]
+Skills = SUNNYDAY
+#-------------------------------
+[FERROTHORN]
+Skills = SUNNYDAY,SANDSTORM
+#-------------------------------
+[KLINK]
+Skills = SANDSTORM
+#-------------------------------
+[KLANG]
+Skills = SANDSTORM
+#-------------------------------
+[KLINKLANG]
+Skills = SANDSTORM
+#-------------------------------
+[EELEKTRIK]
+Skills = HEADBUTT,RAINDANCE,BOUNCE
+#-------------------------------
+[EELEKTROSS]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT,RAINDANCE,BOUNCE
+#-------------------------------
+[ELGYEM]
+Skills = TELEPORT,HEADBUTT,RAINDANCE,RECOVER
+#-------------------------------
+[BEHEEYEM]
+Skills = TELEPORT,HEADBUTT,RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[LITWICK]
+Skills = SUNNYDAY
+#-------------------------------
+[LAMPENT]
+Skills = SUNNYDAY
+#-------------------------------
+[CHANDELURE]
+Skills = SUNNYDAY
+#-------------------------------
+[AXEW]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FRAXURE]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HAXORUS]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CUBCHOO]
+Skills = SURF,DIG,RAINDANCE,HAIL
+#-------------------------------
+[BEARTIC]
+Skills = SURF,DIVE,DIG,RAINDANCE,HAIL
+#-------------------------------
+[CRYOGONAL]
+Skills = RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[SHELMET]
+Skills = RAINDANCE,RECOVER
+#-------------------------------
+[ACCELGOR]
+Skills = RAINDANCE,SANDSTORM,RECOVER
+#-------------------------------
+[STUNFISK]
+Skills = SURF,DIG,RAINDANCE,SANDSTORM,BOUNCE
+#-------------------------------
+[MIENFOO]
+Skills = DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[MIENSHAO]
+Skills = DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[DRUDDIGON]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GOLETT]
+Skills = DIG,RAINDANCE
+#-------------------------------
+[GOLURK]
+Skills = FLY,DIG,RAINDANCE
+#-------------------------------
+[PAWNIARD]
+Skills = DIG,HEADBUTT,RAINDANCE,SANDSTORM
+#-------------------------------
+[BISHARP]
+Skills = DIG,HEADBUTT,RAINDANCE,SANDSTORM
+#-------------------------------
+[BOUFFALANT]
+Skills = SURF,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[RUFFLET]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BRAVIARY]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[VULLABY]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MANDIBUZZ]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HEATMOR]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DURANT]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[DEINO]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ZWEILOUS]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HYDREIGON]
+Skills = FLY,SURF,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LARVESTA]
+Skills = SUNNYDAY
+#-------------------------------
+[VOLCARONA]
+Skills = FLY,SUNNYDAY
+#-------------------------------
+[COBALION]
+Skills = SANDSTORM,BOUNCE
+#-------------------------------
+[TERRAKION]
+Skills = SANDSTORM
+#-------------------------------
+[VIRIZION]
+Skills = SUNNYDAY,BOUNCE
+#-------------------------------
+[TORNADUS]
+Skills = FLY,RAINDANCE
+#-------------------------------
+[THUNDURUS]
+Skills = FLY,RAINDANCE
+#-------------------------------
+[RESHIRAM]
+Skills = FLY,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ZEKROM]
+Skills = FLY,RAINDANCE
+#-------------------------------
+[LANDORUS]
+Skills = FLY,DIG,SANDSTORM
+#-------------------------------
+[KYUREM]
+Skills = FLY,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[KELDEO]
+Skills = SURF,SUNNYDAY,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[MELOETTA]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[GENESECT]
+Skills = FLY
+#-------------------------------
+[CHESPIN]
+Skills = CUT,STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[QUILLADIN]
+Skills = CUT,STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[CHESNAUGHT]
+Skills = CUT,STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[FENNEKIN]
+Skills = CUT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BRAIXEN]
+Skills = CUT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DELPHOX]
+Skills = CUT,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[FROAKIE]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,CAMOUFLAGE,BOUNCE
+#-------------------------------
+[FROGADIER]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,CAMOUFLAGE,BOUNCE
+#-------------------------------
+[GRENINJA]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,CAMOUFLAGE,BOUNCE
+#-------------------------------
+[BUNNELBY]
+Skills = SURF,DIG,SANDSTORM,BOUNCE
+#-------------------------------
+[DIGGERSBY]
+Skills = SURF,DIG,SANDSTORM,BOUNCE
+#-------------------------------
+[FLETCHLING]
+Skills = FLY,DEFOG,SUNNYDAY
+#-------------------------------
+[FLETCHINDER]
+Skills = FLY,DEFOG,SUNNYDAY
+#-------------------------------
+[TALONFLAME]
+Skills = FLY,DEFOG,SUNNYDAY
+#-------------------------------
+[VIVILLON]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[LITLEO]
+Skills = STRENGTH,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PYROAR]
+Skills = STRENGTH,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[FLABEBE]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLOETTE]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLORGES]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[SKIDDO]
+Skills = SURF,STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE,MILKDRINK
+#-------------------------------
+[GOGOAT]
+Skills = SURF,STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE,BOUNCE,MILKDRINK
+#-------------------------------
+[PANCHAM]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PANGORO]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ESPURR]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[MEOWSTIC]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HONEDGE]
+Skills = RAINDANCE
+#-------------------------------
+[DOUBLADE]
+Skills = RAINDANCE
+#-------------------------------
+[AEGISLASH]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[SPRITZEE]
+Skills = SWEETSCENT,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[AROMATISSE]
+Skills = SWEETSCENT,SUNNYDAY,RAINDANCE,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[SWIRLIX]
+Skills = SURF,SWEETSCENT,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[SLURPUFF]
+Skills = SURF,SWEETSCENT,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[INKAY]
+Skills = SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[MALAMAR]
+Skills = SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[BINACLE]
+Skills = SURF,DIG,RAINDANCE,SANDSTORM
+#-------------------------------
+[BARBARACLE]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM
+#-------------------------------
+[SKRELP]
+Skills = SURF,WATERFALL,DIVE,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[DRAGALGE]
+Skills = SURF,WATERFALL,DIVE,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[CLAUNCHER]
+Skills = SURF,WATERFALL,DIVE,RAINDANCE,BOUNCE
+#-------------------------------
+[CLAWITZER]
+Skills = SURF,WATERFALL,DIVE,RAINDANCE,BOUNCE,HEALPULSE
+#-------------------------------
+[HELIOPTILE]
+Skills = SURF,DIG,RAINDANCE,SANDSTORM
+#-------------------------------
+[HELIOLISK]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[TYRUNT]
+Skills = DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[TYRANTRUM]
+Skills = DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[AMAURA]
+Skills = RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[AURORUS]
+Skills = RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SYLVEON]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[HAWLUCHA]
+Skills = FLY,DEFOG,DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[DEDENNE]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CARBINK]
+Skills = SUNNYDAY,SANDSTORM,HAIL
+#-------------------------------
+[GOOMY]
+Skills = SUNNYDAY,RAINDANCE,LIFEDEW
+#-------------------------------
+[SLIGGOO]
+Skills = SUNNYDAY,RAINDANCE,LIFEDEW
+#-------------------------------
+[GOODRA]
+Skills = SURF,SUNNYDAY,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[KLEFKI]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[PHANTUMP]
+Skills = DIG,SUNNYDAY
+#-------------------------------
+[TREVENANT]
+Skills = DIG,SUNNYDAY
+#-------------------------------
+[PUMPKABOO]
+Skills = SUNNYDAY
+#-------------------------------
+[GOURGEIST]
+Skills = SUNNYDAY
+#-------------------------------
+[BERGMITE]
+Skills = SURF,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[AVALUGG]
+Skills = SURF,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[NOIBAT]
+Skills = FLY,DEFOG,SUNNYDAY
+#-------------------------------
+[NOIVERN]
+Skills = FLY,DEFOG,SUNNYDAY
+#-------------------------------
+[XERNEAS]
+Skills = SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[YVELTAL]
+Skills = FLY,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ZYGARDE]
+Skills = DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DIANCIE]
+Skills = SUNNYDAY,SANDSTORM,HAIL
+#-------------------------------
+[HOOPA]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[VOLCANION]
+Skills = SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[ROWLET]
+Skills = DEFOG,SUNNYDAY
+#-------------------------------
+[DARTRIX]
+Skills = DEFOG,SUNNYDAY
+#-------------------------------
+[DECIDUEYE]
+Skills = DEFOG,SUNNYDAY
+#-------------------------------
+[LITTEN]
+Skills = SUNNYDAY
+#-------------------------------
+[TORRACAT]
+Skills = SUNNYDAY
+#-------------------------------
+[INCINEROAR]
+Skills = SUNNYDAY
+#-------------------------------
+[POPPLIO]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[BRIONNE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[PRIMARINA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[PIKIPEK]
+Skills = FLY,ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[TRUMBEAK]
+Skills = FLY,ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[TOUCANNON]
+Skills = FLY,ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[YUNGOOS]
+Skills = SANDSTORM
+#-------------------------------
+[GUMSHOOS]
+Skills = SANDSTORM
+#-------------------------------
+[GRUBBIN]
+Skills = DIG,RAINDANCE
+#-------------------------------
+[CHARJABUG]
+Skills = DIG,RAINDANCE
+#-------------------------------
+[VIKAVOLT]
+Skills = FLY,DIG,RAINDANCE
+#-------------------------------
+[CRABRAWLER]
+Skills = ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CRABOMINABLE]
+Skills = ROCKSMASH,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[ORICORIO]
+Skills = FLY,DEFOG,SANDSTORM
+#-------------------------------
+[CUTIEFLY]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[RIBOMBEE]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[LYCANROC]
+Skills = SANDSTORM
+#-------------------------------
+[WISHIWASHI]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[MAREANIE]
+Skills = SURF,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[TOXAPEX]
+Skills = SURF,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[MUDBRAY]
+Skills = STRENGTH,ROCKSMASH,SANDSTORM
+#-------------------------------
+[MUDSDALE]
+Skills = STRENGTH,ROCKSMASH,SANDSTORM
+#-------------------------------
+[DEWPIDER]
+Skills = SURF,WATERFALL,HEADBUTT,RAINDANCE
+#-------------------------------
+[ARAQUANID]
+Skills = SURF,WATERFALL,DIVE,HEADBUTT,RAINDANCE
+#-------------------------------
+[FOMANTIS]
+Skills = DEFOG,SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[LURANTIS]
+Skills = DEFOG,SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[MORELULL]
+Skills = SUNNYDAY
+#-------------------------------
+[SHIINOTIC]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[SALANDIT]
+Skills = SWEETSCENT
+#-------------------------------
+[SALAZZLE]
+Skills = SWEETSCENT
+#-------------------------------
+[STUFFUL]
+Skills = STRENGTH
+#-------------------------------
+[BEWEAR]
+Skills = STRENGTH
+#-------------------------------
+[BOUNSWEET]
+Skills = SWEETSCENT,SUNNYDAY,BOUNCE,AROMATHERAPY
+#-------------------------------
+[STEENEE]
+Skills = SWEETSCENT,SUNNYDAY,BOUNCE,AROMATHERAPY
+#-------------------------------
+[TSAREENA]
+Skills = SWEETSCENT,SUNNYDAY,BOUNCE,AROMATHERAPY
+#-------------------------------
+[COMFEY]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[ORANGURU]
+Skills = SUNNYDAY,RAINDANCE,INSTRUCT,FUTURESIGHT
+#-------------------------------
+[PASSIMIAN]
+Skills = ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[WIMPOD]
+Skills = SURF,WATERFALL,RAINDANCE,HAIL
+#-------------------------------
+[GOLISOPOD]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,HAIL
+#-------------------------------
+[SANDYGAST]
+Skills = SANDSTORM
+#-------------------------------
+[PALOSSAND]
+Skills = SANDSTORM
+#-------------------------------
+[PYUKUMUKU]
+Skills = RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[TYPENULL]
+Skills = SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[MINIOR]
+Skills = SANDSTORM
+#-------------------------------
+[KOMALA]
+Skills = SUNNYDAY
+#-------------------------------
+[TURTONATOR]
+Skills = SUNNYDAY
+#-------------------------------
+[TOGEDEMARU]
+Skills = BOUNCE
+#-------------------------------
+[BRUXISH]
+Skills = SURF,WATERFALL,RAINDANCE
+#-------------------------------
+[DRAMPA]
+Skills = FLY,SURF,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DHELMISE]
+Skills = SURF,WHIRLPOOL,SUNNYDAY,RAINDANCE
+#-------------------------------
+[JANGMOO]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[HAKAMOO]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[KOMMOO]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[TAPUKOKO]
+Skills = FLY,RAINDANCE
+#-------------------------------
+[TAPULELE]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[TAPUBULU]
+Skills = ROCKSMASH,SUNNYDAY
+#-------------------------------
+[TAPUFINI]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DEFOG,RAINDANCE,HEALPULSE
+#-------------------------------
+[COSMOG]
+Skills = TELEPORT
+#-------------------------------
+[COSMOEM]
+Skills = TELEPORT
+#-------------------------------
+[SOLGALEO]
+Skills = TELEPORT,SUNNYDAY,FUTURESIGHT
+#-------------------------------
+[LUNALA]
+Skills = FLY,TELEPORT,SUNNYDAY,FUTURESIGHT
+#-------------------------------
+[NIHILEGO]
+Skills = HEADBUTT,SANDSTORM
+#-------------------------------
+[BUZZWOLE]
+Skills = BOUNCE
+#-------------------------------
+[PHEROMOSA]
+Skills = BOUNCE
+#-------------------------------
+[XURKITREE]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[CELESTEELA]
+Skills = FLY
+#-------------------------------
+[KARTANA]
+Skills = CUT,DEFOG
+#-------------------------------
+[NECROZMA]
+Skills = FUTURESIGHT
+#-------------------------------
+[MARSHADOW]
+Skills = BOUNCE
+#-------------------------------
+[NAGANADEL]
+Skills = FLY
+#-------------------------------
+[STAKATAKA]
+Skills = SANDSTORM
+#-------------------------------
+[BLACEPHALON]
+Skills = SUNNYDAY
+#-------------------------------
+[ZERAORA]
+Skills = BOUNCE
+#-------------------------------
+[MELTAN]
+Skills = HEADBUTT
+#-------------------------------
+[MELMETAL]
+Skills = HEADBUTT
+#-------------------------------
+[GROOKEY]
+Skills = STRENGTH,SUNNYDAY
+#-------------------------------
+[THWACKEY]
+Skills = STRENGTH,SUNNYDAY
+#-------------------------------
+[RILLABOOM]
+Skills = STRENGTH,SUNNYDAY
+#-------------------------------
+[SCORBUNNY]
+Skills = HEADBUTT,SUNNYDAY,BOUNCE
+#-------------------------------
+[RABOOT]
+Skills = HEADBUTT,SUNNYDAY,BOUNCE
+#-------------------------------
+[CINDERACE]
+Skills = HEADBUTT,SUNNYDAY,BOUNCE
+#-------------------------------
+[SOBBLE]
+Skills = SURF,DIVE,WHIRLPOOL,RAINDANCE,BOUNCE
+#-------------------------------
+[DRIZZILE]
+Skills = SURF,DIVE,WHIRLPOOL,RAINDANCE,BOUNCE
+#-------------------------------
+[INTELEON]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,BOUNCE
+#-------------------------------
+[SKWOVET]
+Skills = DIG
+#-------------------------------
+[GREEDENT]
+Skills = DIG
+#-------------------------------
+[ROOKIDEE]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[CORVISQUIRE]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[CORVIKNIGHT]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[BLIPBUG]
+Skills = RECOVER
+#-------------------------------
+[DOTTLER]
+Skills = RECOVER,FUTURESIGHT
+#-------------------------------
+[ORBEETLE]
+Skills = RECOVER,FUTURESIGHT
+#-------------------------------
+[NICKIT]
+Skills = DIG
+#-------------------------------
+[THIEVUL]
+Skills = DIG
+#-------------------------------
+[GOSSIFLEUR]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[ELDEGOSS]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[WOOLOO]
+Skills = HEADBUTT
+#-------------------------------
+[DUBWOOL]
+Skills = HEADBUTT,BOUNCE
+#-------------------------------
+[CHEWTLE]
+Skills = SURF,DIVE,WHIRLPOOL,HEADBUTT,RAINDANCE
+#-------------------------------
+[DREDNAW]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG,HEADBUTT,RAINDANCE,SANDSTORM
+#-------------------------------
+[YAMPER]
+Skills = DIG
+#-------------------------------
+[BOLTUND]
+Skills = DIG
+#-------------------------------
+[ROLYCOLY]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[CARKOL]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[COALOSSAL]
+Skills = DIG,SANDSTORM
+#-------------------------------
+[FLAPPLE]
+Skills = FLY,SUNNYDAY
+#-------------------------------
+[APPLETUN]
+Skills = SWEETSCENT,HEADBUTT,SUNNYDAY,RECOVER
+#-------------------------------
+[SILICOBRA]
+Skills = DIG,HEADBUTT,SANDSTORM
+#-------------------------------
+[SANDACONDA]
+Skills = DIG,HEADBUTT,SANDSTORM
+#-------------------------------
+[CRAMORANT]
+Skills = FLY,SURF,DIVE,WHIRLPOOL,DEFOG,RAINDANCE
+#-------------------------------
+[ARROKUDA]
+Skills = WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,BOUNCE
+#-------------------------------
+[BARRASKEWDA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,BOUNCE
+#-------------------------------
+[SIZZLIPEDE]
+Skills = SUNNYDAY
+#-------------------------------
+[CENTISKORCH]
+Skills = SUNNYDAY
+#-------------------------------
+[CLOBBOPUS]
+Skills = WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[GRAPPLOCT]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[SINISTEA]
+Skills = AROMATHERAPY
+#-------------------------------
+[POLTEAGEIST]
+Skills = AROMATHERAPY
+#-------------------------------
+[HATENNA]
+Skills = HEALPULSE,LIFEDEW,AROMATHERAPY
+#-------------------------------
+[HATTREM]
+Skills = HEALPULSE,LIFEDEW,AROMATHERAPY
+#-------------------------------
+[HATTERENE]
+Skills = HEALPULSE,LIFEDEW,AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[OBSTAGOON]
+Skills = SURF,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PERRSERKER]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CURSOLA]
+Skills = SURF,WHIRLPOOL,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,RECOVER,LIFEDEW
+#-------------------------------
+[SIRFETCHD]
+Skills = CUT,ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[MRRIME]
+Skills = SUNNYDAY,RAINDANCE,HAIL,FUTURESIGHT
+#-------------------------------
+[RUNERIGUS]
+Skills = RAINDANCE,SANDSTORM
+#-------------------------------
+[MILCERY]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[FALINKS]
+Skills = ROCKSMASH,HEADBUTT
+#-------------------------------
+[PINCURCHIN]
+Skills = SURF,RAINDANCE,RECOVER
+#-------------------------------
+[FROSMOTH]
+Skills = DEFOG,HAIL
+#-------------------------------
+[STONJOURNER]
+Skills = SANDSTORM
+#-------------------------------
+[EISCUE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT,HAIL
+#-------------------------------
+[INDEEDEE]
+Skills = AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[CUFANT]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[COPPERAJAH]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[DRACOZOLT]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[ARCTOZOLT]
+Skills = SURF,RAINDANCE,HAIL
+#-------------------------------
+[DRACOVISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE
+#-------------------------------
+[ARCTOVISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[DURALUDON]
+Skills = ROCKSMASH
+#-------------------------------
+[DRAKLOAK]
+Skills = SURF,DIVE
+#-------------------------------
+[DRAGAPULT]
+Skills = FLY,SURF,DIVE
+#-------------------------------
+[ZACIAN]
+Skills = DIG
+#-------------------------------
+[ZAMAZENTA]
+Skills = DIG
+#-------------------------------
+[ETERNATUS]
+Skills = FLY,RECOVER
+#-------------------------------
+[KUBFU]
+Skills = ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[URSHIFU]
+Skills = ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[ZARUDE]
+Skills = DIG,SUNNYDAY
+#-------------------------------
+[REGIELEKI]
+Skills = RAINDANCE,EXTREMESPEED,BOUNCE
+#-------------------------------
+[GLASTRIER]
+Skills = HAIL
+#-------------------------------
+[CALYREX]
+Skills = SUNNYDAY,HEALPULSE,LIFEDEW,AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[WYRDEER]
+Skills = SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[KLEAVOR]
+Skills = CUT,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[URSALUNA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SWEETSCENT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BASCULEGION]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[SNEASLER]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[OVERQWIL]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE
+#-------------------------------
+[ENAMORUS]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,RAINDANCE
+#-------------------------------
+[VENUSAUR_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[CHARIZARD_1]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[CHARIZARD_2]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[BLASTOISE_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[BEEDRILL_1]
+Skills = CUT,FLASH,ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[PIDGEOT_1]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[RATTATA_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[RATICATE_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[RAICHU_1]
+Skills = RAINDANCE
+#-------------------------------
+[SANDSHREW_1]
+Skills = SUNNYDAY,HAIL
+#-------------------------------
+[SANDSLASH_1]
+Skills = SUNNYDAY,HAIL
+#-------------------------------
+[VULPIX_1]
+Skills = SECRETPOWER,RAINDANCE,HAIL,HEALBELL
+#-------------------------------
+[NINETALES_1]
+Skills = SECRETPOWER,RAINDANCE,HAIL,HEALBELL
+#-------------------------------
+[DIGLETT_1]
+Skills = DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DUGTRIO_1]
+Skills = DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[MEOWTH_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[MEOWTH_2]
+Skills = DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PERSIAN_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[ALAKAZAM_1]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,RECOVER,FUTURESIGHT
+#-------------------------------
+[GEODUDE_1]
+Skills = ROCKCLIMB,SUNNYDAY,SANDSTORM
+#-------------------------------
+[GRAVELER_1]
+Skills = ROCKCLIMB,SUNNYDAY,SANDSTORM
+#-------------------------------
+[GOLEM_1]
+Skills = ROCKCLIMB,SUNNYDAY,SANDSTORM
+#-------------------------------
+[PONYTA_1]
+Skills = BOUNCE,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[RAPIDASH_1]
+Skills = BOUNCE,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[SLOWPOKE_1]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[SLOWBRO_1]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[SLOWBRO_2]
+Skills = SURF,STRENGTH,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[FARFETCHD_1]
+Skills = ROCKSMASH,DEFOG,SUNNYDAY
+#-------------------------------
+[GRIMER_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[MUK_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[GENGAR_1]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[EXEGGUTOR_1]
+Skills = SUNNYDAY
+#-------------------------------
+[CUBONE_1]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,SANDSTORM
+#-------------------------------
+[MAROWAK_1]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[WEEZING_1]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[KANGASKHAN_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[MRMIME_1]
+Skills = SUNNYDAY,RAINDANCE,HAIL,FUTURESIGHT
+#-------------------------------
+[PINSIR_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GYARADOS_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,SANDSTORM,HAIL,BOUNCE
+#-------------------------------
+[AERODACTYL_1]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[ARTICUNO_1]
+Skills = FLY,RECOVER,FUTURESIGHT
+#-------------------------------
+[ZAPDOS_1]
+Skills = FLY,ROCKSMASH,BOUNCE
+#-------------------------------
+[MOLTRES_1]
+Skills = FLY
+#-------------------------------
+[MEWTWO_1]
+Skills = STRENGTH,DIVE,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,RECOVER,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[MEWTWO_2]
+Skills = STRENGTH,DIVE,FLASH,ROCKSMASH,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,RECOVER,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[PICHU_2]
+Skills = SURF,FLASH,RAINDANCE
+#-------------------------------
+[AMPHAROS_1]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,RAINDANCE,HEALBELL
+#-------------------------------
+[SLOWKING_1]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,FUTURESIGHT
+#-------------------------------
+[STEELIX_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[SCIZOR_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[HERACROSS_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CORSOLA_1]
+Skills = SURF,WHIRLPOOL,DIG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[HOUNDOOM_1]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY
+#-------------------------------
+[TYRANITAR_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[SCEPTILE_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY
+#-------------------------------
+[BLAZIKEN_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,BOUNCE
+#-------------------------------
+[SWAMPERT_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,RAINDANCE,HAIL
+#-------------------------------
+[ZIGZAGOON_1]
+Skills = SURF,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[LINOONE_1]
+Skills = SURF,WHIRLPOOL,DIG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GARDEVOIR_1]
+Skills = FLASH,TELEPORT,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[SABLEYE_1]
+Skills = CUT,FLASH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[MAWILE_1]
+Skills = STRENGTH,ROCKSMASH,SWEETSCENT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[AGGRON_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[MEDICHAM_1]
+Skills = STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[MANECTRIC_1]
+Skills = STRENGTH,FLASH,HEADBUTT,RAINDANCE
+#-------------------------------
+[SHARPEDO_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[CAMERUPT_1]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[ALTARIA_1]
+Skills = FLY,ROCKSMASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CASTFORM_1]
+Skills = FLASH,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,FUTURESIGHT
+#-------------------------------
+[CASTFORM_2]
+Skills = FLASH,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,FUTURESIGHT
+#-------------------------------
+[CASTFORM_3]
+Skills = FLASH,HEADBUTT,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,FUTURESIGHT
+#-------------------------------
+[BANETTE_1]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ABSOL_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,BOUNCE,FUTURESIGHT
+#-------------------------------
+[GLALIE_1]
+Skills = FLASH,HEADBUTT,RAINDANCE,HAIL
+#-------------------------------
+[SALAMENCE_1]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[METAGROSS_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[LATIAS_1]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HEALPULSE,RECOVER,FUTURESIGHT
+#-------------------------------
+[LATIOS_1]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HEALPULSE,RECOVER,FUTURESIGHT
+#-------------------------------
+[KYOGRE_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[GROUDON_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[RAYQUAZA_1]
+Skills = FLY,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,SUNNYDAY,RAINDANCE,SANDSTORM,EXTREMESPEED
+#-------------------------------
+[DEOXYS_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[DEOXYS_2]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT,SUNNYDAY,RAINDANCE,RECOVER
+#-------------------------------
+[DEOXYS_3]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SUNNYDAY,RAINDANCE,EXTREMESPEED,RECOVER
+#-------------------------------
+[WORMADAM_1]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[WORMADAM_2]
+Skills = FLASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[CHERRIM_1]
+Skills = FLASH,SWEETSCENT,SUNNYDAY,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[SHELLOS_1]
+Skills = SURF,DIVE,WHIRLPOOL,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[GASTRODON_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,RAINDANCE,SANDSTORM,HAIL,RECOVER
+#-------------------------------
+[LOPUNNY_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[GARCHOMP_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,SANDSTORM
+#-------------------------------
+[LUCARIO_1]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SUNNYDAY,RAINDANCE,EXTREMESPEED,HEALPULSE,LIFEDEW
+#-------------------------------
+[ABOMASNOW_1]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,RAINDANCE,HAIL
+#-------------------------------
+[GALLADE_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW,FUTURESIGHT
+#-------------------------------
+[ROTOM_1]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ROTOM_2]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ROTOM_3]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ROTOM_4]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[ROTOM_5]
+Skills = FLASH,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GIRATINA_1]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE
+#-------------------------------
+[SHAYMIN_1]
+Skills = FLASH,SWEETSCENT,SUNNYDAY
+#-------------------------------
+[ARCEUS_1]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_2]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_3]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_4]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_5]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_6]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_7]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_8]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_9]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_10]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_11]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_12]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_13]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_14]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_15]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_16]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_17]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[ARCEUS_18]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL,EXTREMESPEED,RECOVER,FUTURESIGHT
+#-------------------------------
+[AUDINO_1]
+Skills = SURF,DIG,SUNNYDAY,RAINDANCE,HEALPULSE,LIFEDEW
+#-------------------------------
+[BASCULIN_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[DARUMAKA_2]
+Skills = DIG,HEADBUTT,SUNNYDAY
+#-------------------------------
+[DARMANITAN_1]
+Skills = DIG,HEADBUTT,SUNNYDAY,FUTURESIGHT
+#-------------------------------
+[DARMANITAN_2]
+Skills = DIG,HEADBUTT,SUNNYDAY
+#-------------------------------
+[DARMANITAN_3]
+Skills = DIG,HEADBUTT,SUNNYDAY
+#-------------------------------
+[YAMASK_1]
+Skills = RAINDANCE,SANDSTORM
+#-------------------------------
+[DEERLING_1]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[DEERLING_2]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[DEERLING_3]
+Skills = HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[SAWSBUCK_1]
+Skills = CUT,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[SAWSBUCK_2]
+Skills = CUT,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[SAWSBUCK_3]
+Skills = CUT,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE,CAMOUFLAGE,BOUNCE,AROMATHERAPY
+#-------------------------------
+[STUNFISK_1]
+Skills = SURF,DIG,RAINDANCE,SANDSTORM,BOUNCE
+#-------------------------------
+[TORNADUS_1]
+Skills = FLY,RAINDANCE
+#-------------------------------
+[THUNDURUS_1]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,RAINDANCE
+#-------------------------------
+[LANDORUS_1]
+Skills = FLY,DIG,SANDSTORM
+#-------------------------------
+[KYUREM_1]
+Skills = FLY,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[KYUREM_2]
+Skills = FLY,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[KYUREM_3]
+Skills = FLY,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[KYUREM_4]
+Skills = FLY,SUNNYDAY,RAINDANCE,HAIL
+#-------------------------------
+[KELDEO_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,RAINDANCE,HAIL,BOUNCE
+#-------------------------------
+[MELOETTA_1]
+Skills = STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE,HEALBELL
+#-------------------------------
+[GENESECT_1]
+Skills = FLY
+#-------------------------------
+[GENESECT_2]
+Skills = FLY
+#-------------------------------
+[GENESECT_3]
+Skills = FLY
+#-------------------------------
+[GENESECT_4]
+Skills = FLY
+#-------------------------------
+[GRENINJA_1]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,CAMOUFLAGE,BOUNCE
+#-------------------------------
+[GRENINJA_2]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,RAINDANCE,CAMOUFLAGE,BOUNCE
+#-------------------------------
+[VIVILLON_1]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_2]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_3]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_4]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_5]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_6]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_7]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_8]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_9]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_10]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_11]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_12]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_13]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_14]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_15]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_16]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_17]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_18]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[VIVILLON_19]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,AROMATHERAPY
+#-------------------------------
+[FLABEBE_1]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLABEBE_2]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLABEBE_3]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLABEBE_4]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLOETTE_1]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLOETTE_2]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLOETTE_3]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLOETTE_4]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLOETTE_5]
+Skills = SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLORGES_1]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLORGES_2]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLORGES_3]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FLORGES_4]
+Skills = DEFOG,SUNNYDAY,RAINDANCE,CAMOUFLAGE,HEALBELL,AROMATHERAPY
+#-------------------------------
+[FURFROU_1]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_2]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_3]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_4]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_5]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_6]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_7]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_8]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[FURFROU_9]
+Skills = SURF,ROCKSMASH,HEADBUTT,SUNNYDAY,RAINDANCE
+#-------------------------------
+[MEOWSTIC_1]
+Skills = DIG,SUNNYDAY,RAINDANCE,FUTURESIGHT
+#-------------------------------
+[AEGISLASH_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[PUMPKABOO_1]
+Skills = SUNNYDAY
+#-------------------------------
+[PUMPKABOO_2]
+Skills = SUNNYDAY
+#-------------------------------
+[PUMPKABOO_3]
+Skills = SUNNYDAY
+#-------------------------------
+[GOURGEIST_1]
+Skills = SUNNYDAY
+#-------------------------------
+[GOURGEIST_2]
+Skills = SUNNYDAY
+#-------------------------------
+[GOURGEIST_3]
+Skills = SUNNYDAY
+#-------------------------------
+[XERNEAS_1]
+Skills = SUNNYDAY,RAINDANCE,HAIL,HEALPULSE,AROMATHERAPY
+#-------------------------------
+[ZYGARDE_1]
+Skills = DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[ZYGARDE_2]
+Skills = DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[ZYGARDE_3]
+Skills = DIG,SUNNYDAY,SANDSTORM
+#-------------------------------
+[DIANCIE_1]
+Skills = SUNNYDAY,SANDSTORM,HAIL
+#-------------------------------
+[HOOPA_1]
+Skills = SUNNYDAY,RAINDANCE
+#-------------------------------
+[ORICORIO_1]
+Skills = FLY,DEFOG,SANDSTORM
+#-------------------------------
+[ORICORIO_2]
+Skills = FLY,DEFOG,SANDSTORM
+#-------------------------------
+[ORICORIO_3]
+Skills = FLY,DEFOG,SANDSTORM
+#-------------------------------
+[LYCANROC_1]
+Skills = ROCKCLIMB
+#-------------------------------
+[LYCANROC_2]
+Skills = ROCKCLIMB
+#-------------------------------
+[WISHIWASHI_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[SILVALLY_1]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_2]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_3]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_4]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_5]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_6]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_7]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_8]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_9]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_10]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_11]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_12]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_13]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_14]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_15]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_16]
+Skills = SURF,DEFOG,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_17]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[SILVALLY_18]
+Skills = SURF,SUNNYDAY,RAINDANCE,SANDSTORM,HAIL
+#-------------------------------
+[MINIOR_7]
+Skills = SANDSTORM
+#-------------------------------
+[MINIOR_8]
+Skills = SANDSTORM
+#-------------------------------
+[MINIOR_9]
+Skills = SANDSTORM
+#-------------------------------
+[MINIOR_10]
+Skills = SANDSTORM
+#-------------------------------
+[MINIOR_11]
+Skills = SANDSTORM
+#-------------------------------
+[MINIOR_12]
+Skills = SANDSTORM
+#-------------------------------
+[MINIOR_13]
+Skills = SANDSTORM
+#-------------------------------
+[NECROZMA_1]
+Skills = FUTURESIGHT
+#-------------------------------
+[NECROZMA_2]
+Skills = FUTURESIGHT
+#-------------------------------
+[NECROZMA_3]
+Skills = FUTURESIGHT
+#-------------------------------
+[NECROZMA_4]
+Skills = FUTURESIGHT
+#-------------------------------
+[CRAMORANT_1]
+Skills = FLY,SURF,DIVE,WHIRLPOOL,DEFOG,RAINDANCE
+#-------------------------------
+[CRAMORANT_2]
+Skills = FLY,SURF,DIVE,WHIRLPOOL,DEFOG,RAINDANCE
+#-------------------------------
+[SINISTEA_1]
+Skills = AROMATHERAPY
+#-------------------------------
+[POLTEAGEIST_1]
+Skills = AROMATHERAPY
+#-------------------------------
+[ALCREMIE_7]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_8]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_9]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_10]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_11]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_12]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_13]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_14]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_15]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_16]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_17]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_18]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_19]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_20]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_21]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_22]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_23]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_24]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_25]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_26]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_27]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_28]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_29]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_30]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_31]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_32]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_33]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_34]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_35]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_36]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_37]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_38]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_39]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_40]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_41]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_42]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_43]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_44]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_45]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_46]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_47]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_48]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_49]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_50]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_51]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_52]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_53]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_54]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_55]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_56]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_57]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_58]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_59]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_60]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_61]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[ALCREMIE_62]
+Skills = SWEETSCENT,RECOVER,AROMATHERAPY
+#-------------------------------
+[EISCUE_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT,HAIL
+#-------------------------------
+[INDEEDEE_1]
+Skills = HEALPULSE,AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[ZACIAN_1]
+Skills = DIG
+#-------------------------------
+[ZAMAZENTA_1]
+Skills = DIG
+#-------------------------------
+[URSHIFU_1]
+Skills = WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT,RAINDANCE
+#-------------------------------
+[CALYREX_1]
+Skills = SUNNYDAY,HAIL,HEALPULSE,LIFEDEW,AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[CALYREX_2]
+Skills = SUNNYDAY,HEALPULSE,LIFEDEW,AROMATHERAPY,FUTURESIGHT
+#-------------------------------
+[GROWLITHE_1]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[ARCANINE_1]
+Skills = STRENGTH,ROCKSMASH,DIG,SUNNYDAY
+#-------------------------------
+[VOLTORB_1]
+Skills = RAINDANCE
+#-------------------------------
+[ELECTRODE_1]
+Skills = RAINDANCE
+#-------------------------------
+[QWILFISH_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE
+#-------------------------------
+[SNEASEL_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[PETILIL_1]
+Skills = SWEETSCENT,SUNNYDAY,AROMATHERAPY
+#-------------------------------
+[LILLIGANT_1]
+Skills = CUT,ROCKSMASH,SWEETSCENT,SUNNYDAY,RECOVER,HEALBELL,AROMATHERAPY
+#-------------------------------
+[BASCULIN_2]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL,RAINDANCE,HAIL
+#-------------------------------
+[ZORUA_1]
+Skills = CUT,DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[ZOROARK_1]
+Skills = CUT,ROCKSMASH,DIG,SUNNYDAY,RAINDANCE,BOUNCE
+#-------------------------------
+[RUFFLET_1]
+Skills = FLY,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[BRAVIARY_1]
+Skills = CUT,FLY,STRENGTH,DEFOG,SUNNYDAY,RAINDANCE
+#-------------------------------
+[GOOMY_1]
+Skills = SUNNYDAY,RAINDANCE,LIFEDEW
+#-------------------------------
+[SLIGGOO_1]
+Skills = SUNNYDAY,RAINDANCE,LIFEDEW
+#-------------------------------
+[GOODRA_1]
+Skills = SURF,STRENGTH,ROCKSMASH,SUNNYDAY,RAINDANCE,HAIL,LIFEDEW
+#-------------------------------
+[BERGMITE_1]
+Skills = SURF,RAINDANCE,HAIL,RECOVER
+#-------------------------------
+[AVALUGG_1]
+Skills = SURF,STRENGTH,ROCKSMASH,RAINDANCE,HAIL,RECOVER

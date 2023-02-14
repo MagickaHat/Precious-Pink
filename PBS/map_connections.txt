@@ -1,0 +1,58 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone outside (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone outside (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Viridian City (89) - Route 2 (80)
+89,North,0,80,South,0
+# Route 22 (94) - Route 2 (80)
+94,East,0,80,West,86
+# Pewter City (78) - Route 2 (80)
+78,South,0,80,North,0
+# Route 22 (94) - Viridian City (89)
+94,East,0,89,West,6
+# Route 1 (83) - Viridian City (89)
+83,North,0,89,South,0
+# Pallet Town (77) - Route 22 (94)
+77,West,0,94,East,74
+# Route 1 (83) - Route 22 (94)
+83,West,0,94,East,34
+# Pewter City (78) - Route 22 (94)
+78,West,132,94,East,0
+# Route 1 (83) - Pallet Town (77)
+83,South,0,77,North,0

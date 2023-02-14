@@ -1,0 +1,64 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Essen
+Filename = mapRegion0.png
+Point = 13,12,Lappet Town,Oak's Lab,2,8,8,
+Point = 13,11,Route 1,,,,,
+Point = 13,10,Cedolan City,Cedolan Dept. Store,7,47,11,
+Point = 14,10,Cedolan City,,7,47,11,
+Point = 14,9,Route 2,,,,,
+Point = 14,8,Route 2,,,,,
+Point = 15,8,Lerucean Town,,23,11,15,
+Point = 16,8,Natural Park,,,,,
+Point = 15,7,Route 3,,,,,
+Point = 15,6,Route 3,Ice Cave,,,,
+Point = 14,6,Route 3,,,,,
+Point = 13,6,Ingido Plateau,,35,17,7,
+Point = 12,6,Route 4,,,,,
+Point = 11,6,Route 4,,,,,
+Point = 11,7,Route 5,Cycle Road,,,,
+Point = 11,8,Route 5,Cycle Road,,,,
+Point = 11,9,Route 5,Cycle Road,,,,
+Point = 11,10,Route 6,,,,,
+Point = 12,10,Route 6,,,,,
+Point = 15,10,Route 7,,,,,
+Point = 16,10,Route 7,Rock Cave,,,,
+Point = 17,10,Battle Frontier,,52,17,14,
+Point = 12,12,Safari Zone,,,,,
+Point = 13,13,Route 8,Diving area,,,,
+Point = 18,17,Berth Island,,,,,51
+Point = 22,16,Faraday Island,,,,,52
+Point = 5,13,Pallet Town,,,,,
+Point = 5,10,Viridian City,,,,,
+#-------------------------------
+[1]
+Name = Tiall
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,
+#-------------------------------
+[2]
+Filename=mapRegion2.png
+Name=Kanto
+Point=5,13,"Pallet Town","Oak Research Lab",13,11,,
+Point=5,10,"Viridian City","Viridian City Academy",20,27,,
+Point=5,8,"Viridian Forest",,,,,
+Point=5,7,"Diglett's Cave",,,,,
+Point=10,5,"Mt. Moon","Mt. Moon Square",,,,
+Point=15,5,"Cerulean City",,,,,
+Point=15,11,"Vermillion City","Vermillion Harbor",,,,
+Point=16,11,"Diglett's Cave",,,,,
+Point=15,8,"Saffron City","Silph Co.",,,,
+Point=12,8,"Celadon City","Celadon Game Corner",,,,
+Point=5,6,"Pewter City","Pewter Museum ",,,,
+Point=19,8,"Lavender Town",,,,,
+Point=5,16,"Cinnabar Island","Cinnabar Mansion",,,,
+Point=9,16,"Seafoam Islands",,,,,
+Point=13,14,"Fuchsia City","Safari Zone",,,,
+Point=5,12,"Route 1",,,,,
+Point=8,10,"Cycling Road",,,,,
+Point=15,3,"Route 25","Cerulean Cape",,,,
+Point=5,11,"Route 1",,,,,
+Point=5,9,"Route 2",,,,,
+Point=16,3,"Route 25","Cerulean Cape",,,,
+Point=17,3,"Route 25","Cerulean Cape",,,,
