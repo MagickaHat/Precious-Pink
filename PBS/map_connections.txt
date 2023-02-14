@@ -38,21 +38,19 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Viridian City (89) - Route 2 (80)
-89,North,0,80,South,0
+# Pewter City (78) - Route 2 (80)
+78,South,8,80,North,0
 # Route 22 (94) - Route 2 (80)
 94,East,0,80,West,86
-# Pewter City (78) - Route 2 (80)
-78,South,0,80,North,0
-# Route 22 (94) - Viridian City (89)
-94,East,0,89,West,6
-# Route 1 (83) - Viridian City (89)
-83,North,0,89,South,0
+# Viridian City (89) - Route 2 (80)
+89,North,0,80,South,0
 # Pallet Town (77) - Route 22 (94)
 77,West,0,94,East,74
 # Route 1 (83) - Route 22 (94)
 83,West,0,94,East,34
-# Pewter City (78) - Route 22 (94)
-78,West,132,94,East,0
+# Viridian City (89) - Route 22 (94)
+89,West,6,94,East,0
 # Route 1 (83) - Pallet Town (77)
 83,South,0,77,North,0
+# Viridian City (89) - Route 1 (83)
+89,South,0,83,North,0

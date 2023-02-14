@@ -415,7 +415,16 @@ Environment = Grass
 #-------------------------------
 [078]   # Pewter City
 Name = Pewter City
-MapPosition = 3,5,6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,6
+WildBattleBGM = FRLG 18 Battle (VS Wild Pokemon).ogg
+TrainerBattleBGM = FRLG 11 Battle (VS Trainer).ogg
+WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon).ogg
+TrainerVictoryBGM = FRLG 12 Victory (VS Trainer).ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
 #-------------------------------
 [079]   # Viridian Forest Entrance
 Name = Viridian Forest
@@ -526,5 +535,5 @@ Name = Route 3
 MapPosition = 3,8,6
 #-------------------------------
 [098]   # Viridian Forest Exit
-Name = Viridian Forest 
+Name = Viridian Forest
 Bicycle = false
