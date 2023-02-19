@@ -1193,7 +1193,8 @@ Name = King's Rock
 NamePlural = King's Rocks
 Pocket = 1
 Price = 5000
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.
 #-------------------------------
 [RAZORFANG]
@@ -1549,7 +1550,8 @@ NamePlural = Metal Coats
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.
 #-------------------------------
 [SILKSCARF]
@@ -2153,7 +2155,8 @@ NamePlural = Dragon Scales
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.
 #-------------------------------
 [UPGRADE]
@@ -2162,7 +2165,8 @@ NamePlural = Upgrades
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = A transparent device filled with all sorts of data. It was produced by Silph Co.
 #-------------------------------
 [DUBIOUSDISC]
@@ -2171,7 +2175,8 @@ NamePlural = Dubious Discs
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_50
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_50
 Description = A transparent device overflowing with dubious data.  Its producer is unknown.
 #-------------------------------
 [PROTECTOR]
@@ -2180,7 +2185,8 @@ NamePlural = Protectors
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_80
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
 Description = A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.
 #-------------------------------
 [ELECTIRIZER]
@@ -2189,7 +2195,8 @@ NamePlural = Electirizers
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_80
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
 Description = A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.
 #-------------------------------
 [MAGMARIZER]
@@ -2198,7 +2205,8 @@ NamePlural = Magmarizers
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_80
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
 Description = A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.
 #-------------------------------
 [REAPERCLOTH]
@@ -2207,7 +2215,8 @@ NamePlural = Reaper Cloths
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_10
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_10
 Description = A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.
 #-------------------------------
 [PRISMSCALE]
@@ -2216,7 +2225,8 @@ NamePlural = Prism Scales
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
 #-------------------------------
 [OVALSTONE]
