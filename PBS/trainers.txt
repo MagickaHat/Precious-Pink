@@ -11,7 +11,7 @@ LoseText = I took you for granted, and so I lost. As proof of your victory, I co
 Pokemon = GEODUDE,12
     Gender = male
     Moves = TACKLE,DEFENSECURL
-    AbilityIndex = 1
+    AbilityIndex = 2
     Happiness = 70
     Ball = POKEBALL
 Pokemon = ONIX,14
@@ -160,15 +160,33 @@ Pokemon = SPINARAK,8
 #-------------------------------
 [LASS,Jocelyn]
 LoseText = Now my day's really ruined!
-Pokemon = NIDORANfE,6
+Pokemon = NIDORAN,6
     Gender = female
     Moves = GROWL,POISONSTING,SCRATCH
     AbilityIndex = 1
     Happiness = 70
     Ball = POKEBALL
-Pokemon = NIDORANmA,6
+Pokemon = NIDORAN,6
     Gender = male
     Moves = LEER,POISONSTING,PECK
+    AbilityIndex = 1
+    Happiness = 70
+    Ball = POKEBALL
+#-------------------------------
+[PICNICKER,Amara]
+LoseText = I think you're ready!
+Pokemon = GEODUDE,7
+    Gender = female
+    Moves = TACKLE,DEFENSECURL,ROCKPOLISH
+    AbilityIndex = 1
+    Happiness = 70
+    Ball = POKEBALL
+#-------------------------------
+[CAMPER,Jerry]
+LoseText = Maybe you're closer then I predicted...
+Pokemon = RHYHORN,7
+    Gender = male
+    Moves = TACKLE,TAILWHIP,SMACKDOWN
     AbilityIndex = 1
     Happiness = 70
     Ball = POKEBALL

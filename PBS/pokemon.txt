@@ -2170,7 +2170,7 @@ Category = Magnet
 Pokedex = It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.
 Generation = 1
 WildItemUncommon = METALCOAT
-Evolutions = MAGNEZONE,Item,THUNDERSTONE
+Evolutions = MAGNEZONE,LocationFlag,Magnetic,MAGNEZONE,Item,THUNDERSTONE
 #-------------------------------
 [FARFETCHD]
 Name = Farfetch'd
@@ -3525,7 +3525,7 @@ Habitat = Urban
 Category = Evolution
 Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
 Generation = 1
-Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,GLACEON,Item,ICESTONE,SYLVEON,Item,SHINYSTONE,ESPEON,Item,SUNSTONE,UMBREON,Item,MOONSTONE
+Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,LocationFlag,MossRock,LEAFEON,Item,LEAFSTONE,GLACEON,LocationFlag,IceRock,GLACEON,Item,ICESTONE,SYLVEON,Item,SHINYSTONE,ESPEON,Item,SUNSTONE,UMBREON,Item,MOONSTONE
 #-------------------------------
 [VAPOREON]
 Name = Vaporeon
