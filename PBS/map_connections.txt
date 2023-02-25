@@ -41,7 +41,7 @@
 # Route 2 (80) - Pewter City (78)
 80,North,0,78,South,8
 # Route 3 (97) - Pewter City (78)
-97,West,0,78,East,16
+97,West,0,78,East,15
 # Route 22 (94) - Route 2 (80)
 94,East,0,80,West,86
 # Viridian City (89) - Route 2 (80)

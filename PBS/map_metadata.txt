@@ -479,6 +479,7 @@ WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon).ogg
 TrainerVictoryBGM = FRLG 12 Victory (VS Trainer).ogg
 WildCaptureME = Battle capture success.ogg
 Environment = ForestGrass
+Flags = MossRock
 #-------------------------------
 [088]   # Viridian City
 Name = Viridian City
@@ -532,7 +533,18 @@ Environment = Grass
 #-------------------------------
 [097]   # Route 3
 Name = Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
 MapPosition = 3,8,6
+BattleBack = 
+WildBattleBGM = FRLG 18 Battle (VS Wild Pokemon).ogg
+TrainerBattleBGM = FRLG 11 Battle (VS Trainer).ogg
+WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon).ogg
+TrainerVictoryBGM = FRLG 12 Victory (VS Trainer).ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
 #-------------------------------
 [098]   # Viridian Forest Exit
 Name = Viridian Forest
