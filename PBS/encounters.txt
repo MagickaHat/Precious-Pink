@@ -343,3 +343,12 @@ Water,2
     45,PSYDUCK,20,40
     45,SLOWPOKE,20,40
     10,POLIWHIRL,20,40
+#-------------------------------
+[097] # Route 3
+Land,21
+    40,SHINX,5,8
+    35,SPEAROW,6,8
+    30,PIDGEY,6,7
+    14,NIDORAN,6
+    10,JIGGLYPUFF,6
+    10,MANKEY,6

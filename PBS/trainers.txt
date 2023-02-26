@@ -1,13 +1,13 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [CAMPER,Liam]
-LoseText = A very good battle, indeed!
+LoseText = Battle! Set!
 Pokemon = DIGLETT,10
 Pokemon = BONSLY,11
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = POTION
-LoseText = I took you for granted, and so I lost. As proof of your victory, I confer on you this...the official Pokémon League BoulderBadge.
+LoseText = I took you for granted, and so I lost. As proof of your victory, I confer on you this...the official Pokémon League Boulder Badge.
 Pokemon = GEODUDE,12
     Gender = male
     Moves = TACKLE,DEFENSECURL
@@ -129,7 +129,7 @@ Pokemon = CATERPIE,6
     Ball = NETBALL
 Pokemon = WEEDLE,6
     Gender = male
-    Moves = TACKLE,STRINGSHOT
+    Moves = POISONSTING,STRINGSHOT
     AbilityIndex = 0
     Happiness = 70
     Ball = NETBALL
@@ -175,7 +175,7 @@ Pokemon = NIDORAN,6
 #-------------------------------
 [PICNICKER,Amara]
 LoseText = I think you're ready!
-Pokemon = GEODUDE,7
+Pokemon = GEODUDE,10
     Gender = female
     Moves = TACKLE,DEFENSECURL,ROCKPOLISH
     AbilityIndex = 1
@@ -184,9 +184,60 @@ Pokemon = GEODUDE,7
 #-------------------------------
 [CAMPER,Jerry]
 LoseText = Maybe you're closer then I predicted...
-Pokemon = RHYHORN,7
+Pokemon = RHYHORN,10
     Gender = male
     Moves = TACKLE,TAILWHIP,SMACKDOWN
+    AbilityIndex = 1
+    Happiness = 70
+    Ball = POKEBALL
+#-------------------------------
+[BUGCATCHER,Colton]
+LoseText = I can see why now!
+Pokemon = PINSIR,8
+    Gender = male
+    Moves = VISEGRIP,HARDEN,FOCUSENERGY,BIND
+    AbilityIndex = 0
+    Happiness = 70
+    Ball = NETBALL
+#-------------------------------
+[LASS,Janice]
+LoseText = Y'ouch!
+Pokemon = ODDISH,7
+    Gender = female
+    Moves = ABSORB,GROWTH,ACID
+    AbilityIndex = 1
+    Happiness = 70
+    Ball = POKEBALL
+#-------------------------------
+[BUGCATCHER,Greg]
+LoseText = Maybe offense is the best defense after all.
+Pokemon = METAPOD,7
+    Gender = male
+    Moves = TACKLE,STRINGSHOT,HARDEN
+    AbilityIndex = 0
+    Happiness = 70
+    Ball = NETBALL
+Pokemon = KAKUNA,7
+    Gender = male
+    Moves = TACKLE,STRINGSHOT,HARDEN
+    AbilityIndex = 0
+    Happiness = 70
+    Ball = NETBALL
+#-------------------------------
+[PICNICKER,Robin]
+LoseText = You haven't crushed my spirit!
+Pokemon = TEDDIURSA,7
+    Gender = female
+    Moves = COVET,BABYDOLLEYES,LICK,FAKETEARS
+    AbilityIndex = 1
+    Happiness = 70
+    Ball = POKEBALL
+#-------------------------------
+[CAMPER,Victor]
+LoseText = I'm even hungrier for jam now.
+Pokemon = NIDORAN,7
+    Gender = male
+    Moves = LEER,POISONSTING,PECK
     AbilityIndex = 1
     Happiness = 70
     Ball = POKEBALL

@@ -6223,3 +6223,9 @@ BackSprite = 0,47
 FrontSprite = -5,9
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[NIDORAN]
+BackSprite = 0,49
+FrontSprite = 0,33
+ShadowX = 0
+ShadowSize = 2

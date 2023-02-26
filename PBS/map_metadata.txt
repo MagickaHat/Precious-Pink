@@ -549,3 +549,24 @@ Environment = Grass
 [098]   # Viridian Forest Exit
 Name = Viridian Forest
 Bicycle = false
+#-------------------------------
+[105]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+WildBattleBGM = FRLG 18 Battle (VS Wild Pokemon).ogg
+TrainerBattleBGM = FRLG 11 Battle (VS Trainer).ogg
+WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon).ogg
+TrainerVictoryBGM = FRLG 12 Victory (VS Trainer).ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[106]   # Pewter Gym
+Name = Pewter Gym
+Outdoor = false
+Bicycle = false
+TrainerBattleBGM = FRLG 11 Battle (VS Trainer).ogg
+TrainerVictoryBGM = FRLG 12 Victory (VS Trainer).ogg
+Environment = Rock
