@@ -466,6 +466,10 @@ TrainerVictoryBGM = FRLG 12 Victory (VS Trainer).ogg
 WildCaptureME = Battle capture success.ogg
 Environment = Grass
 #-------------------------------
+[085]   # \PN's house
+Name = \PN's house
+Outdoor = false
+#-------------------------------
 [087]   # Viridian Forest
 Name = Viridian Forest
 Outdoor = true

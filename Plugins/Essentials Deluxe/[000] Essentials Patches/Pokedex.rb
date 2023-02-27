@@ -205,15 +205,19 @@ end
 class PokemonPokedex_Scene
   def setIconBitmap(species)
     gender, form, shiny, gmax, shadow = $player.pokedex.last_form_seen(species)
-    shiny = false if !Settings::POKEDEX_SHINY_FORMS
-    shadow = false if !Settings::POKEDEX_SHADOW_FORMS
     @sprites["icon"].setSpeciesBitmap(species, gender, form, shiny, shadow, false, false, false, gmax)
     @sprites["icon"].unDynamax
+    if !$player.seen?(@sprites["pokedex"].species)
+      @sprites["icon"].tone = Tone.new(-255,-255,-255, 255)
+    else
+      @sprites["icon"].tone = Tone.new(0,0,0,0)
+    end
     if PluginManager.installed?("Generation 8 Pack Scripts")
       @sprites["icon"].constrict([224, 216]) if !defined?(EliteBattle)
     end
   end
 end
+
 
 
 #-------------------------------------------------------------------------------
