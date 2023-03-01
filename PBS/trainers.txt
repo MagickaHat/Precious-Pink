@@ -244,7 +244,7 @@ Pokemon = NIDORAN,7
 #-------------------------------
 [RIVAL1,Gary]
 LoseText = Humph! You just got lucky is all!
-Pokemon =  CHARMANDER,5
+Pokemon = CHARMANDER,5
     Gender = male
     Moves = SCRATCH,GROWL
     AbilityIndex = 0
@@ -253,7 +253,7 @@ Pokemon =  CHARMANDER,5
 #-------------------------------
 [RIVAL1,Gary,1]
 LoseText = Humph! You just got lucky is all!
-Pokemon =  SQUIRTLE,5
+Pokemon = SQUIRTLE,5
     Gender = male
     Moves = TACKLE,TAILWHIP
     AbilityIndex = 0
@@ -262,10 +262,9 @@ Pokemon =  SQUIRTLE,5
 #-------------------------------
 [RIVAL1,Gary,2]
 LoseText = Humph! You just got lucky is all!
-Pokemon =  BULBASAUR,5
+Pokemon = BULBASAUR,5
     Gender = male
-    Moves = TACKLE,GROWL 
+    Moves = TACKLE,GROWL
     AbilityIndex = 0
     Happiness = 70
     Ball = POKEBALL
-#-------------------------------
