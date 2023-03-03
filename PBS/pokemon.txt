@@ -51,12 +51,12 @@ Habitat = Grassland
 Category = Seed
 Pokedex = To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
 Generation = 1
-Evolutions = VENUSAUR,Level,32
+Evolutions = VENUSAUR,Level,36
 #-------------------------------
 [VENUSAUR]
 Name = Venusaur
 Types = GRASS,POISON
-BaseStats = 80,82,83,80,100,100
+BaseStats = 80,83,83,85,104,100
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 263
@@ -134,7 +134,7 @@ Evolutions = CHARIZARD,Level,36
 [CHARIZARD]
 Name = Charizard
 Types = FIRE,FLYING
-BaseStats = 78,84,78,100,109,85
+BaseStats = 78,84,78,100,110,85
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 267
@@ -212,7 +212,7 @@ Evolutions = BLASTOISE,Level,36
 [BLASTOISE]
 Name = Blastoise
 Types = WATER
-BaseStats = 79,83,100,78,85,105
+BaseStats = 79,83,100,78,90,105
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 265
