@@ -288,7 +288,7 @@ Evolutions = BUTTERFREE,Level,10
 [BUTTERFREE]
 Name = Butterfree
 Types = BUG,FLYING
-BaseStats = 60,45,50,70,90,80
+BaseStats = 70,45,50,85,90,80
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 198
@@ -365,7 +365,7 @@ Evolutions = BEEDRILL,Level,10
 [BEEDRILL]
 Name = Beedrill
 Types = BUG,POISON
-BaseStats = 65,90,40,75,45,80
+BaseStats = 70,90,45,90,45,80
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 198
